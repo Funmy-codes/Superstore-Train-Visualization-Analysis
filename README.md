@@ -1,7 +1,3 @@
-# Superstore-Train-Visualization-Analysis
-Visualizations on a Superstore Train Dataset
-
-
 # Superstore Sales Analysis
 
 This project explores and analyzes sales data from a superstore to uncover trends and insights about the store's performance. By performing queries and visualizations, this analysis provides an overview of key business metrics such as sales, profits, customer segments, and regional performance.
